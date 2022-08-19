@@ -1,0 +1,137 @@
+.container{
+    position: absolute;
+    margin: none;
+    padding: 10px;
+}
+.img-1{
+    position: absolute;
+    width: 66px;
+    height: 85px;
+    left: 231px;
+    top: 672px;
+}
+.img-2{
+    position: absolute;
+    width: 80px;
+    height: 83px;
+    left: 535px;
+    top: 670px;
+}
+.img-3{
+    position: absolute;
+    width: 75px;
+    height: 80px;
+    left: 831px;
+    top: 670px;
+}
+.img-4{
+    position: absolute;
+    width: 68px;
+    height: 76px;
+    left: 1141px;
+    top: 677px;
+}
+.text-1{
+    position: absolute;
+    width: 138px;
+    height: 36px;
+    left: 201px;
+    top: 779px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #413960;
+}
+.text-2{
+    position: absolute;
+    width: 179px;
+    height: 36px;
+    left: 480px;
+    top: 779px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #413960;
+}
+.text-3{
+    position: absolute;
+    width: 176px;
+    height: 36px;
+    left: 781px;
+    top: 779px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #413960;
+}
+.text-4{
+    position: absolute;
+    width: 173px;
+    height: 36px;
+    left: 1083px;
+    top: 779px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #413960;
+}
+.para-1{
+    position: absolute;
+    width: 128px;
+    height: 24px;
+    left: 206px;
+    top: 815px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+}
+.para-2{
+    position: absolute;
+    width: 128px;
+    height: 24px;
+    left: 506px;
+    top: 815px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+}
+.para-3{
+    position: absolute;
+    width: 128px;
+    height: 24px;
+    left: 805px;
+    top: 815px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+}
+.para-4{
+    position: absolute;
+    width: 128px;
+    height: 24px;
+    left: 1106px;
+    top: 815px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+}
